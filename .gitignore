@@ -1,0 +1,11 @@
+.vscode/*
+obj\Debug\net7.0\myWebApp.pdb
+obj\Debug\net7.0\myWebApp.dll
+obj\Debug\net7.0\myWebApp.assets.cache
+obj\Debug\net7.0\myWebApp.csproj.FileListAbsolute.txt
+obj\Debug\net7.0\myWebApp.GeneratedMSBuildEditorConfig.editorconfig
+obj\Debug\net7.0\myWebApp.genruntimeconfig.cache
+obj\Debug\net7.0\project.razor.json
+obj\Debug\net7.0\staticwebassets.*
+obj\project.assets.json
+obj\project.nuget.cache
